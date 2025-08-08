@@ -1,4 +1,4 @@
-<h2 align="center">yo, I’m <img src="https://media.giphy.com/media/xCCqt6qDewWf6zriPX/giphy.gif" width="50"> Navfufun aka AK</h2>
+<h2 align="center">Hey, I’m <img src="https://media.giphy.com/media/xCCqt6qDewWf6zriPX/giphy.gif" width="50"> Navfufun aka AK</h2>
 
 <p align="center">
   <i>Cybersecurity student 🛡️ | Security Researcher 🕵️ | Bug Bounty Hunter 🎯</i><br>
