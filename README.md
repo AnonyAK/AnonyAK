@@ -17,6 +17,7 @@
 
 ### 🛠️ Projects
 - 🔍 [Auto-Recon](https://github.com/AnonyAK/Auto-Recon) — Automated recon tool for bug bounty 🔥
+- 🚀 [Wifusion-ESP_32](https://github.com/AnonyAK/Wifusion-ESP_32) — WiFi pentesting toolkit powered by ESP32 for wireless security exploits ⚡️
 - 📓 [Writeups](https://blog.anishshah001.com.np/) — CTF & VulnLab writeups  
 
 ---
